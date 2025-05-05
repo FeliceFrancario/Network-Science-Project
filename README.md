@@ -1,4 +1,4 @@
-The bojective of this analysis was to understand the
+The objective of this analysis was to understand the
 interaction patterns, key influencers,
 community structures, and information
 flow within the Twitter interaction network of the
